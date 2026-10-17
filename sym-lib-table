@@ -1,4 +1,9 @@
 (sym_lib_table
-  (lib (name "High-Resolution-Multislope-converter-rev2-rescue")(type "Legacy")(uri "${KIPRJMOD}/High Resolution Multislope converter rev2-rescue.lib")(options "")(descr ""))
-  (lib (name "High-Resolution-Multislope-converter-modified-rev-2-rescue")(type "Legacy")(uri "${KIPRJMOD}/High Resolution Multislope converter-modified rev 2-rescue.lib")(options "")(descr ""))
+	(version 7)
+	
+	(lib (name "High-Resolution-Multislope-converter-modified-rev-2-rescue") (type "Legacy") (uri "${KIPRJMOD}/High Resolution Multislope converter-modified rev 2-rescue.lib") (options "") (descr ""))
+	(lib (name "High Resolution Multislope converter-modified rev 2-rescue") (type "KiCad") (uri "${KIPRJMOD}/High Resolution Multislope converter-modified rev 2-rescue.kicad_sym") (options "") (descr ""))
+	
+
+ (lib (name "AssemblyOriginal") (type "KiCad") (uri "${KIPRJMOD}/AssemblyOriginal.kicad_sym") (options "") (descr "Original fitted Q2 BAS21 topology"))
 )
